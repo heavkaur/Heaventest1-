@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Regression">
+<test name="Login">
+<classes>
+</class name=" trainingsessions.sellysession.Signkh"
+</classes>
+</test> 
+</suite>
